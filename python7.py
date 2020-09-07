@@ -53,6 +53,6 @@ def count_error(file) :
 count_error('logfiles.txt')
 count_per_user('logfiles.txt')
 
-!/usr/bin/env python3
+# !/usr/bin/env python3
 
 
